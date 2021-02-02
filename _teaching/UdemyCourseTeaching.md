@@ -1,6 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: Teaching
+title: "Udemy Courses"
+collection: Courses
 type: "Udemy Course"
 permalink: /teaching/UdemyCourseTeaching
 venue: "Udemy"
@@ -9,6 +9,7 @@ location: "Bangalore, India"
 ---
 
 This was my first udemy course that I published in Udemy of Scratch 3.0
+Then I made many more courses like Snap, App Inventor etc..
 
 Felt Excited
 ======
