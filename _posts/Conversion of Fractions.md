@@ -1,6 +1,6 @@
 ---
 title: 'Conversion of Fractions'
-date: 03/02/2021
+date: 2021-02-03
 permalink: /posts/2021/02/Conversion-of-Fractions/
 tags:
   - Maths
