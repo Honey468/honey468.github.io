@@ -3,6 +3,7 @@ title: "Udemy Courses"
 collection: Courses
 type: "Udemy Course"
 permalink: /teaching/Udemy Course
+date: 01/02/2021
 venue: "Udemy"
 location: "Bangalore, India"
 ---
