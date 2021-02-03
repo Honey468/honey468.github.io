@@ -1,7 +1,7 @@
 ---
 title: 'Conversion of Fractions'
 date: 03/02/2021
-permalink: /posts/03/02/2021
+permalink: /posts/2021/02/Conversion-of-Fractions/
 tags:
   - Maths
   - Mathematical Blogs
