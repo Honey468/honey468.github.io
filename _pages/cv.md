@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Class 4 in School Vivekanada
+* Class 6 in School Vivekanada
   
 Skills
 ======
