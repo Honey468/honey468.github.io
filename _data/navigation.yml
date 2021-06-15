@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
-
   - title: "Courses"
     url: /courses/    
     
@@ -12,6 +9,6 @@ main:
   - title: "Blogs"
     url: /blogs/
     
-  - title: "CV"
-    url: /cv/
+  - title: "About Me"
+    url: /about_hridaya/
 
