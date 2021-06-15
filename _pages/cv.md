@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /about_hridaya/
 author_profile: true
 redirect_from:
-  - /resume
+  - /about
+  - /about_me
 ---
 
 {% include base_path %}
